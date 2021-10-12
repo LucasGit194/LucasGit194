@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LucasGit194
+- 👀 I’m interested in Full Stack development
+- 🌱 I’m currently learning C# and Python
+- 💞️ I’m looking to collaborate on anything really!
+- 📫 How to reach me: Just send me and email at lucasjob194@gmail.com
