@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LucasGit194
-- 👀 I’m interested in Full Stack development
-- 🌱 I’m currently learning Front-end Development
+- 👀 I’m interested in Backend development
+- 🌱 I’m currently learning Java!
 - 💞️ I’m looking to collaborate on anything really!
-- 📫 How to reach me: Just send me and email at lucasjob194@gmail.com
+- 📫 How to reach me: Just send me an email at lucasjob194@gmail.com
